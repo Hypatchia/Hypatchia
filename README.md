@@ -18,7 +18,7 @@
 
 #### Let's Discuss on : [![LinkedIn][2.2]][1]  or Email : m.samia.belhaddad@gmail.com
  
-[2.2]: https://yraw.githubusercontent.com/Hypatchia/Hypatchia/master/linkedin-3-16.png
+[2.2]: https://github.com/Hypatchia/Hypatchia/blob/main/Profile/linkedin-3-16.png
 [1]: https://www.linkedin.com/in/samiabelhaddad/
 
 

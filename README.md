@@ -16,7 +16,8 @@
   ![](https://img.shields.io/badge/APPLIEDMATHEMATICS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
-#### Let's Discuss on : [![LinkedIn][2.2]][1]  or Email : m.samia.belhaddad@gmail.com
+#### Let's Discuss on : [![LinkedIn][2.2]][1]  or Email : m.samia.belhaddad@gmail.com ; Don't forget to send me a career advice ! 
+
  
 [2.2]: https://github.com/Hypatchia/Hypatchia/blob/main/Profile/linkedin-3-16.png
 [1]: https://www.linkedin.com/in/samiabelhaddad/

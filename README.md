@@ -17,6 +17,7 @@
 
 
 #### Let's Discuss on : [![LinkedIn][2.2]][1]  or Email : m.samia.belhaddad@gmail.com ; Don't forget to send me a career advice ! 
+#### You can also check my resume on : https://github.com/Hypatchia/Hypatchia/raw/main/Samia%20Belhaddad%20Resume.pdf
 
  
 [2.2]: https://github.com/Hypatchia/Hypatchia/blob/main/Profile/linkedin-3-16.png

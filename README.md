@@ -2,10 +2,11 @@
 
 
 ## Hello There👋 It's Samia ! 
-#### Msc Student in Applied Statistics & Probabilities at  https://www.usthb.dz/
-#### Bsc in Mathematics
+#### Applied Statistics & Probabilities Master's student graduating in 2023 at  https://www.usthb.dz/
+#### Bachelor's in Mathematics graduated in 2021
 
-
+#### At this stage , I am open to all kinds of opportunities in Statistics,Mathematics , Data Science, Machine learning , deep learning ...
+#### I am open for both research and development anytime anywhere .
 * **Open for Collabs and Opportunities in :**
   
   ![](https://img.shields.io/badge/DATA-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -15,9 +16,17 @@
   ![](https://img.shields.io/badge/APPLIEDMATHEMATICS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
-#### Let's Discuss on : [![LinkedIn][2.2]][1]  or Email : m.samia.belhaddad@gmail.com ; Don't forget to send me a career advice ! 
-#### You can also check my resume on : https://github.com/Hypatchia/Hypatchia/raw/main/Samia%20Belhaddad%20Resume.pdf
 
+#### My skills vary :
+* **Pure and Applied Mathematics**
+* **Probability & Statistics**
+* **Machine Learning**
+* **Deep Learning**
+* **Python**
+* **R**
+#### Learning is my favorite skill 
+#### Let's Discuss on : [![LinkedIn][2.2]][1]  or Email : m.samia.belhaddad@gmail.com ; Don't forget to send me a career advice ! 
+#### You can also check my resume on : https://github.com/Hypatchia/Hypatchia/blob/main/Samia_BELHADDAD_CV.pdf
  
 [2.2]: https://github.com/Hypatchia/Hypatchia/blob/main/Profile/linkedin-3-16.png
 [1]: https://www.linkedin.com/in/samiabelhaddad/

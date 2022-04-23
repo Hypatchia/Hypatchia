@@ -5,8 +5,7 @@
 #### Msc Student in Applied Statistics & Probabilities at  https://www.usthb.dz/
 #### Bsc in Mathematics
 
-* I'm currently working on **Time Series Forecasting using RNNs and LSTMs (Long-short-term-memory)**
-* Learning about **modeling and simulation of Phenomena using random statistical and probabilistic models**
+
 * **Open for Collabs and Opportunities in :**
   
   ![](https://img.shields.io/badge/DATA-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)

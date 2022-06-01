@@ -25,8 +25,8 @@
 * **Python**
 * **R**
 #### Learning is my favorite skill 
-#### Let's Discuss on : [![LinkedIn][2.2]][1]  or Email : m.samia.belhaddad@gmail.com ; Don't forget to send me a career advice ! 
-#### You can also check my resume on : https://github.com/Hypatchia/Hypatchia/blob/main/Samia_BELHADDAD_CV.pdf
+#### Let's Discuss on : [![LinkedIn][2.2]][1]  or Email : m.samia.belhaddad@gmail.com ; 
+#### You can also check my resume on :https://github.com/Hypatchia/Hypatchia/blob/main/BELHADDAD_Maguedouda-Samia.pdf
  
 [2.2]: https://github.com/Hypatchia/Hypatchia/blob/main/Profile/linkedin-3-16.png
 [1]: https://www.linkedin.com/in/samiabelhaddad/

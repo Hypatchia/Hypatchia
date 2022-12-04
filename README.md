@@ -18,7 +18,7 @@
 
 
 #### My skills vary :
-* **Pure and Applied Mathematics**
+* **Applied Mathematics**
 * **Probability & Statistics**
 * **Machine Learning**
 * **Deep Learning**
@@ -26,7 +26,7 @@
 * **R**
 #### Learning is my favorite skill 
 #### Let's Discuss on : [![LinkedIn][2.2]][1]  or Email : m.samia.belhaddad@gmail.com ; 
-#### You can also check my resume on :https://github.com/Hypatchia/Hypatchia/blob/main/BELHADDAD_Maguedouda-Samia.pdf
+#### You can also check Portfolio on https://hypatchia.github.io/
  
 [2.2]: https://github.com/Hypatchia/Hypatchia/blob/main/Profile/linkedin-3-16.png
 [1]: https://www.linkedin.com/in/samiabelhaddad/

@@ -24,7 +24,7 @@ Hi, there , it's [Samia](https://hypatchia.github.io/) 🌐,
 
 - 💼 For work pportunities ? do reach, [Email Samia](mailto:samiamagbelhaddad@gmaiL.com)
 - 💬 I can also Teach you something !  [Also Email Samia ](mailto:samiamagbelhaddad@gmaiL.com) 
-- :book: I am also into Academia and I want a PHD ! ! 
+
 
 
 **languages and tools:**  

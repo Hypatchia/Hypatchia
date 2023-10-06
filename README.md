@@ -2,7 +2,11 @@
 
 ## About Me
 
-I'm a passionate data scientist and machine learning engineer with a deep background in Artificial Intelligence. I hold a master's degree in Applied Mathematics - Applied Statistics and a Bachelor's Degree in Mathematics and Computer Science.
+I'm a passionate data scientist and machine learning engineer with a deep background in Artificial Intelligence.
+
+I hold a master's degree in Applied Mathematics - Applied Statistics and,
+
+a Bachelor's Degree in Mathematics and Computer Science.
 
 Here's a bit more about what I do:
 
@@ -15,14 +19,15 @@ Here's a bit more about what I do:
 
 Here are some of the technologies and tools I frequently work with:
 
-- **Programming Languages**: Python, R
+- **Programming Languages**: Python, R, C
 - **Machine Learning**: TensorFlow, PyTorch, scikit-learn
 - **Web Development**: Django, HTML, CSS, JavaScript
 - **Data Manipulation**: pandas, NumPy
 - **Data Visualization**: Matplotlib, Seaborn, Plotly
 - **Version Control**: Git, GitHub
-- **Deployment**: Azure, MLOps, Tensorflow Extended
-
+- **Deployment**: Microsoft Azure, MLOps, Tensorflow Extended
+- **Tools**: Latex, vscode, Jupyter
+- 
 ## Projects & Experience
 
 You can check out my professional experience and projects on my Portfolio and LinkedIn:
@@ -30,6 +35,19 @@ You can check out my professional experience and projects on my Portfolio and Li
 - [LinkedIn](https://www.linkedin.com/in/samiabelhaddad/)
 - [Portfolio](https://hypatchia.github.io/)
 
+Some of the Things I am proud of are:
+
+- Image Defect Assessment: [link] Trained CNNs in Tensorflow, Built using Django, Deployed in Azure
+- Image Quality Inspection: Trained CNNs in Tensorflow, Built using Django, Deployed in Azure
+- Image Quality Enhancement: Trained Convolutional AutoEncoders in Tensorflow.
+- Image Dataset Augmentation: Trained Deep Convolutional Generative Adversarial Network in Tensorflow.
+- Premium App Enrollment: Trained in Sklearn, Hosted on Streamlit.
+- Client Satisfaction Prediction: Trained in Sklearn, Hosted on Streamlit.
+- bla
+- bla
+- bla
+- bla
+- 
 ## Contact
 
 Feel free to get in touch with me:

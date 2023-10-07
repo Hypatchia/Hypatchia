@@ -1,7 +1,7 @@
 # Hi there, I'm Samia BELHADDAD! 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hypatchia&label=Profile%20views&color=0e75b6&style=flat" alt="hypatchia" /> </p>
 
-## About Me
+## 🌟 About Me:
 
 I'm a passionate data scientist and machine learning engineer with a deep background in Artificial Intelligence.
 
@@ -13,6 +13,9 @@ a Bachelor's Degree in Mathematics and Computer Science.
   <a href="https://www.r-project.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="30" height="30"/></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/></a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/></a>
+
+  <a href="https://scikit-learn.org" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/AIML/scikit.svg" alt="samiabelhaddad" height="30" width="30" /></a>
+   <a href="https://opencv.org" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/AIML/opencv.svg" alt="samiabelhaddad" height="30" width="30" /></a>
   <a href="https://pytorch.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="30" height="30"/></a>
   <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="30" height="30"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="30" height="30"/></a>
@@ -30,12 +33,11 @@ a Bachelor's Degree in Mathematics and Computer Science.
 </p>
 Here's a bit more about what I do:
 
-- 🌟 I specialize in developing cutting-edge machine learning models and deep learning architectures.
-- 💻 I enjoy building powerful web applications using Django to bring my data-driven solutions to life.
-- 📸 I have a strong interest and experience in image processing and computer vision.
-- 🎨 I've ventured into the creative world of GANs (Generative Adversarial Networks) and autoencoders to create exciting applications.
+- I specialize in developing cutting-edge machine learning models and deep learning architectures.
+- I enjoy building powerful web applications using Django to bring my data-driven solutions to life.
+- I have a strong interest and experience in image processing and computer vision.
 
-## Tech Stack
+## 💻 Building:
 
 Here are some of the technologies and tools I frequently work with:
 
@@ -52,28 +54,19 @@ Here are some of the technologies and tools I frequently work with:
 
 You can check out my professional experience and projects on my Portfolio and LinkedIn:
 
-- [LinkedIn](https://www.linkedin.com/in/samiabelhaddad/)
-- [Portfolio](https://hypatchia.github.io/)
+
+<a href="https://linkedin.com/in/samiabelhaddad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Samia-BELHADDAD" height="30" width="30" />           </a>
+<a href="https://twitter.com/samiabelhaddad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samiabelhaddad" height="30" width="30" /></a>
 
 Some of the Things I am proud of are:
 
-- Image Defect Assessment: [link] Trained CNNs in Tensorflow, Built using Django, Deployed in Azure
-- Image Quality Inspection: Trained CNNs in Tensorflow, Built using Django, Deployed in Azure
-- Image Quality Enhancement: Trained Convolutional AutoEncoders in Tensorflow.
-- Image Dataset Augmentation: Trained Deep Convolutional Generative Adversarial Network in Tensorflow.
-- Premium App Enrollment: Trained in Sklearn, Hosted on Streamlit.
-- Client Satisfaction Prediction: Trained in Sklearn, Hosted on Streamlit.
-- bla
-- bla
-- bla
-- bla
 - 
-## Contact
+-
+-
+- 
 
-Feel free to get in touch with me:
+## 📫 Reach Out
 
-- Direct Message me on [LinkedIn](https://www.linkedin.com/in/samiabelhaddad/)
-- Email me at samiamagbelhaddad@gmail.com
-- Connect with me on WhatsApp: +213541325492
+samiamagbelhaddad@gmail.com
 
 Thanks for visiting my GitHub profile! 🚀

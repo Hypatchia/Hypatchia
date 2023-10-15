@@ -26,17 +26,14 @@
  
 </p>
 
-
-<p>
   Over 3 years of experience building cool Machine Learning Models for different purposes and applications in:
 
-- Predictive Analytics
+- Predictive Analytics, Predictive Maintenance, Descriptive Analytics
 
-- Predictive Maintenance
-  
-- Descriptive Analytics
+  Through: School projects, Internships, Personal Projects, and more!
 
-I also hold a master's degree in Applied Mathematics - Applied Statistics & Data Science
+<p>
+I also hold a master's degree in Applied Mathematics - Applied Statistics & Data Science.
 
 Here's a bit more about what I do:
 

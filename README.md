@@ -10,6 +10,9 @@
   <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="30" height="30"/></a>
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="30" height="30"/></a>
    <a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="30" height="30"/></a>
+  <a href="https://www.docker.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="30" height="30" />
+</a>
     <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></a>
      <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="30" height="30"/></a>
   <a href="https://jupyter.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="30" height="30"/></a> 

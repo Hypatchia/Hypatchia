@@ -54,17 +54,18 @@ Here's a bit more about what I do:
 Technologies I frequently work with:
 
 - **Programming Languages**: Python, R, C
-- **Machine Learning**: TensorFlow, PyTorch, scikit-learn
+- **Machine Learning**: Keras-TensorFlow,scikit-learn PyTorch
+- **ML Cloud Platforms**: Azure ML Services - Azure Computer Vision.
 - **Web Development**: Django, HTML, CSS, JavaScript
 - **Data Manipulation**: pandas, NumPy, Scipy
 - **Data Visualization**: Matplotlib, Seaborn, Plotly
 - **Version Control**: Git, GitHub
-- **Deployment**: Microsoft Azure, Streamlit MLOps, Tensorflow Extended
-- **Tools**: Latex, vscode, Jupyter
+- **Deployment**: Microsoft Azure Web App Services, Streamlit, mlflow
+- **Tools**:  Docker, vscode, Jupyter, 
 
 ## Projects & Experince:
 
-🌐 portfolio:
+🌐 portfolio: 
 
 ## Professional Experience & Direct Message:
 

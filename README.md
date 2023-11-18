@@ -1,8 +1,11 @@
 <h1 align="center"> Hi there, I'm Samia BELHADDAD! 👋</h1>
 <h2 align="center">I'm a Machine Learning Engineer</h2>
+<h3 align="center">2023 Graduate in Applied Mathematics: Applied Statistics & Data Science</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hypatchia&label=Profile%20views&color=0e75b6&style=flat" alt="hypatchia" /> </p>
 
 ## 🌟 About Me:
+### <p align="center">+ 3 years of building Machine Learning, Deep Learning & Computer Vision Models.
+</p >
 <p>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/></a>
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/></a>
@@ -29,48 +32,50 @@
  
 </p>
 
-  Over 3 years of experience building cool Machine Learning Models for different purposes and applications in:
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hypatchia&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-- Predictive Analytics, Predictive Maintenance, Descriptive Analytics
-
-  Through: School projects, Internships, Personal Projects, and more!
 
 <p>
-I also hold a master's degree in Applied Mathematics - Applied Statistics & Data Science.
 
-Here's a bit more about what I do:
+## 💻 What I do:
 
- <li>Developing cutting-edge machine learning and deep learning models.</li>
-  <li>Building powerful web apps with Django to bring data-driven solutions to life.</li>
-  <li>Deploying solutions on Microsoft Azure & Streamlit (For Analytics) for scalability and performance.</li>
-  <li>Automating workflows with GitHub Actions for seamless development.</li>
-  <li>Passionate about image processing and computer vision.</li>
-  <li>I like to play with Generative AI Tools</li>
+ - Develop cutting-edge **Machine Learning** and **Deep earning** models.
+ - Implement **Computer Vision** and **Image Processing** Projects.
+ - Build **Generative AI** Models: GANs, AE, PALM
+  - Build powerful web apps with **Django** & **Streamlit** to bring data-driven solutions to life.
+  - Deploy solutions on **Microsoft Azure** for scalability and performance.
+  - Automate workflows with **GitHub Actions**
+  - Track Machine Learning Experiments using **MLFLOW**
+  - Build **Production Ready ML Pipelines on Azure Machine Learnng Services**
 
-</p>
 
 ## 💻 Building:
-
-Technologies I frequently work with:
 
 - **Programming Languages**: Python, R, C
 - **Machine Learning**: Keras-TensorFlow,scikit-learn PyTorch
 - **ML Cloud Platforms**: Azure ML Services - Azure Computer Vision.
-- **Web Development**: Django, HTML, CSS, JavaScript
+- **Backend Development**: Django, HTML, CSS, JavaScript
 - **Data Manipulation**: pandas, NumPy, Scipy
 - **Data Visualization**: Matplotlib, Seaborn, Plotly
 - **Version Control**: Git, GitHub
 - **Deployment**: Microsoft Azure Web App Services, Streamlit, mlflow
-- **Tools**:  Docker, vscode, Jupyter, 
+- **Tools**:  Docker, git, vscode, Jupyter, 
 
-## Projects & Experince:
+## 🌐 Portfolio: 
 
-🌐 portfolio: 
+<div align="center" style="font-size: 18px;">
 
-## Professional Experience & Direct Message:
+  https://samiabelhaddad.me 
+</div>
 
-<a href="https://linkedin.com/in/samiabelhaddad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Samia-BELHADDAD" height="30" width="30" />           </a>
+## Professional Experience & Direct Contact:
+<p  align="center">
+<a  href="https://linkedin.com/in/samiabelhaddad" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+alt="Samia-BELHADDAD" height="30" width="30" />  </a></P>
 
-## 📫 or Reach Out at samiamagbelhaddad@gmail.com or:
+## 📫 Reach Out at:
+<p align="center" style="font-size: 18px;"> <a href="mailto:samiamagbelhaddd@gmail.com" >
+samiamagbelhaddad@gmail.com> </a>
+</p>
 
-Thanks for visiting my GitHub profile! 🚀
+## Thanks for visiting my GitHub profile! 🚀

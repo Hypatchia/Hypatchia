@@ -4,9 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hypatchia&label=Profile%20views&color=0e75b6&style=flat" alt="hypatchia" /> </p>
 
 ## 🌟 About Me:
-### <p align="center">+ 3 years of building Machine Learning, Deep Learning & Computer Vision Models.
-</p >
-<p>
+<h4 align="center">+ 3 years of building Machine Learning, Deep Learning & Computer Vision Models.
+</h4 >
+
+
+<p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/></a>
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/></a>
   <a href="https://scikit-learn.org" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/AIML/scikit.svg" alt="samiabelhaddad" height="30" width="30" /></a>
@@ -31,9 +33,11 @@
 <a href="https://cloud.google.com/ai-platform/mlops" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="MLOps" width="30" height="30"/></a>
  
 </p>
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hypatchia&show_icons=true&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hypatchia&theme=onedark&langs_count=10&layout=compact&hide=html,css" alt="Your GitHub stats" />
+</p>
 
 <p>
 
@@ -61,12 +65,84 @@
 - **Deployment**: Microsoft Azure Web App Services, Streamlit, mlflow
 - **Tools**:  Docker, git, vscode, Jupyter, 
 
+## 💻 Projects:
+
+<p align="center">
+  <h3 align="center">Computer Vision & Deep Learning</h3>
+</p>
+
+<table style="border-collapse: collapse; width: 100%; margin: auto; background-color: #282c34; color: #abb2bf;">
+    <tr style="border-bottom: 1px solid #3e4451;">
+      <th style="padding: 10px; text-align: left;">Project</th>
+      <th style="padding: 10px; text-align: left;">Link</th>
+      <th style="padding: 10px; text-align: left;">Technologies Used</th>
+    </tr>
+    <tr>
+      <td style="padding: 10px;">Defect Assessment:</td>
+      <td style="padding: 10px;">Description of Project 1</td>
+      <td style="padding: 10px;">Tech 1, Tech 2</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px;">Product Inspection</td>
+      <td style="padding: 10px;">Description of Project 2</td>
+      <td style="padding: 10px;">Tech 3, Tech 4</td>
+    </tr>
+      
+  </table>
+
+<p align="center">
+  <h3 align="center">Machine Learning</h3>
+</p>
+
+<table style="border-collapse: collapse; width: 100%; margin: auto; background-color: #282c34; color: #abb2bf;">
+    <tr style="border-bottom: 1px solid #3e4451;">
+      <th style="padding: 10px; text-align: left;">Project</th>
+      <th style="padding: 10px; text-align: left;">Description</th>
+      <th style="padding: 10px; text-align: left;">Technologies Used</th>
+    </tr>
+    <tr>
+      <td style="padding: 10px;">Project 1</td>
+      <td style="padding: 10px;">Description of Project 1</td>
+      <td style="padding: 10px;">Tech 1, Tech 2</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px;">Project 2</td>
+      <td style="padding: 10px;">Description of Project 2</td>
+      <td style="padding: 10px;">Tech 3, Tech 4</td>
+    </tr>
+  </table>
+<p align="center">
+  <h3 align="center">Generative Models</h3>
+</p>
+<table style="border-collapse: collapse; width: 100%; margin: auto; background-color: #282c34; color: #abb2bf;">
+    <tr style="border-bottom: 1px solid #3e4451;">
+      <th style="padding: 10px; text-align: left;">Project</th>
+      <th style="padding: 10px; text-align: left;">Description</th>
+      <th style="padding: 10px; text-align: left;">Technologies Used</th>
+    </tr>
+    <tr>
+      <td style="padding: 10px;">Image Denoising for Quality Enhancement</td>
+      <td style="padding: 10px;">Description of Project 1</td>
+      <td style="padding: 10px;">Tech 1, Tech 2</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px;">Imbalanced Dataset Augmentation using GANs</td>
+      <td style="padding: 10px;">Description of Project 2</td>
+      <td style="padding: 10px;">Tech 3, Tech 4</td>
+    </tr>
+    
+  </table>
+
 ## 🌐 Portfolio: 
 
 <div align="center" style="font-size: 18px;">
 
-  https://samiabelhaddad.me 
+  https://sambelh.azurewebsites.net
+
 </div>
+
+
+
 
 ## Professional Experience & Direct Contact:
 <p  align="center">

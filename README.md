@@ -31,8 +31,8 @@
 <a href="https://cloud.google.com/ai-platform/mlops" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="MLOps" width="30" height="30"/></a>
  
 </p>
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hypatchia&show_icons=true&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hypatchia&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p>

@@ -67,9 +67,9 @@
 
 ## 💻 Projects:
 
-<p align="center">
+
   <h3 align="center">Computer Vision & Deep Learning</h3>
-</p>
+
 
 <table style="border-collapse: collapse; width: 100%; margin: auto; background-color: #282c34; color: #abb2bf;">
     <tr style="border-bottom: 1px solid #3e4451;">

@@ -142,12 +142,12 @@
 
 
 
-## Professional Experience & Direct Contact:
+## You can Message me Directly on LinkedIn:
 <p  align="center">
 <a  href="https://linkedin.com/in/samiabelhaddad" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
 alt="Samia-BELHADDAD" height="30" width="30" />  </a></P>
 
-## 📫 Reach Out at:
+## 📫 Or Reach Out at:
 <p align="center" style="font-size: 18px;"> <a href="mailto:samiamagbelhaddd@gmail.com" >
 samiamagbelhaddad@gmail.com> </a>
 </p>

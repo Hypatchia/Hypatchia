@@ -148,7 +148,7 @@
 alt="Samia-BELHADDAD" height="30" width="30" />  </a></P>
 
 ## 📫 Or Reach Out at:
-<p align="center" style="font-size: 18px;"> <a href="mailto:samiamagbelhaddd@gmail.com" >
+<p> align="center" style="font-size: 18px;"> <a href="mailto:samiamagbelhaddd@gmail.com"
 samiamagbelhaddad@gmail.com> </a>
 </p>
 

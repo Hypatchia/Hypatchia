@@ -25,7 +25,6 @@
   <a href="https://opencv.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/AIML/opencv.svg" alt="opencv" height="30" width="30" /></a>
   <a href="https://www.r-project.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="30" height="30"/></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/></a>
-
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="30" height="30"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="30" height="30"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/></a>
@@ -68,67 +67,73 @@
 ## 💻 Projects:
 
 
-  <h3 align="center">Computer Vision & Deep Learning</h3>
-
+  <h3 align="center">Predictive Maintenance: Computer Vision, Deep & Machine Learning</h3>
 
 <table style="border-collapse: collapse; width: 100%; margin: auto; background-color: #282c34; color: #abb2bf;">
     <tr style="border-bottom: 1px solid #3e4451;">
       <th style="padding: 10px; text-align: left;">Project</th>
-      <th style="padding: 10px; text-align: left;">Link</th>
-      <th style="padding: 10px; text-align: left;">Technologies Used</th>
+      <th style="padding: 10px; text-align: left;">Details</th>
     </tr>
     <tr>
-      <td style="padding: 10px;">Defect Assessment:</td>
-      <td style="padding: 10px;">Description of Project 1</td>
-      <td style="padding: 10px;">Tech 1, Tech 2</td>
+      <td style="padding: 10px;">Computer Vision Based Defect Assessment</td>
+      <td style="padding: 10px;">https://github.com/Hypatchia/DefectAssessment-ComputerVision-KerasTensorflow</td>
     </tr>
     <tr>
-      <td style="padding: 10px;">Product Inspection</td>
-      <td style="padding: 10px;">Description of Project 2</td>
-      <td style="padding: 10px;">Tech 3, Tech 4</td>
+      <td style="padding: 10px;">Visual Quality Inspection using Deep Learning</td>
+      <td style="padding: 10px;">https://github.com/Hypatchia/QualityInspection-ComputerVision-KerasTensorflow</td>
     </tr>
-      
-  </table>
+    <tr>
+      <td style="padding: 10px;">Industrial Machine Failures Analysis and Prediction</td>
+      <td style="padding: 10px;">https://github.com/Hypatchia/PredictiveMaintenance-MachineLearning-AzureML</td>
+
+    </tr>
+</table>
+
 
 <p align="center">
-  <h3 align="center">Machine Learning</h3>
+  <h3 align="center">Predictive Analytics: Machine Learning </h3>
 </p>
 
 <table style="border-collapse: collapse; width: 100%; margin: auto; background-color: #282c34; color: #abb2bf;">
     <tr style="border-bottom: 1px solid #3e4451;">
       <th style="padding: 10px; text-align: left;">Project</th>
-      <th style="padding: 10px; text-align: left;">Description</th>
-      <th style="padding: 10px; text-align: left;">Technologies Used</th>
+      <th style="padding: 10px; text-align: left;">Details</th>
     </tr>
     <tr>
-      <td style="padding: 10px;">Project 1</td>
-      <td style="padding: 10px;">Description of Project 1</td>
-      <td style="padding: 10px;">Tech 1, Tech 2</td>
+      <td style="padding: 10px;">Premium Purchase Analysis and Prediction</td>
+      <td style="padding: 10px;">https://github.com/Hypatchia/PremiumEnrollement-MachineLearning-ScikitLearn-Streamlit</td>
+ 
     </tr>
     <tr>
-      <td style="padding: 10px;">Project 2</td>
-      <td style="padding: 10px;">Description of Project 2</td>
-      <td style="padding: 10px;">Tech 3, Tech 4</td>
+      <td style="padding: 10px;">Customer Satisfaction Analysis and Prediction</td>
+      <td style="padding: 10px;">https://github.com/Hypatchia/ClientSatisfaction-MachineLearning-Scikitlearn-Streamlit</td>
+    
     </tr>
+
+
   </table>
 <p align="center">
-  <h3 align="center">Generative Models</h3>
+  <h3 align="center">Generative Models: Images</h3>
 </p>
 <table style="border-collapse: collapse; width: 100%; margin: auto; background-color: #282c34; color: #abb2bf;">
     <tr style="border-bottom: 1px solid #3e4451;">
       <th style="padding: 10px; text-align: left;">Project</th>
-      <th style="padding: 10px; text-align: left;">Description</th>
-      <th style="padding: 10px; text-align: left;">Technologies Used</th>
+      <th style="padding: 10px; text-align: left;">Details</th>
     </tr>
     <tr>
-      <td style="padding: 10px;">Image Denoising for Quality Enhancement</td>
-      <td style="padding: 10px;">Description of Project 1</td>
-      <td style="padding: 10px;">Tech 1, Tech 2</td>
+      <td style="padding: 10px;">AutoEncoder Based Image Denoising for Quality Enhancement</td>
+      <td style="padding: 10px;">https://github.com/Hypatchia/ImageDenoising-GenAI-AutoEncoders</td>
+ 
     </tr>
     <tr>
       <td style="padding: 10px;">Imbalanced Dataset Augmentation using GANs</td>
-      <td style="padding: 10px;">Description of Project 2</td>
-      <td style="padding: 10px;">Tech 3, Tech 4</td>
+      <td style="padding: 10px;">https://github.com/Hypatchia/DatasetAugmentation-GenerativeNetworks-KerasTensorflow</td>
+ 
+    </tr>
+     <tr>
+      <td style="padding: 10px;">AutoEncoders for Image Compression and Reconstruction</td>
+      <td style="padding: 10px;">https://github.com/Hypatchia/AutoEncodersPlayground</td>
+    
     </tr>
     
   </table>
@@ -154,4 +159,4 @@ alt="Samia-BELHADDAD" height="30" width="30" />  </a></P>
 samiamagbelhaddad@gmail.com> </a>
 </p>
 
-## Thanks for visiting my GitHub profile! 🚀
+## Thanks for visiting my GitHub profile, Don't forget to Connect with me on LinkedIn! 🚀

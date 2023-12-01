@@ -68,7 +68,6 @@
 
 
   <h3 align="center">Predictive Maintenance: Computer Vision, Deep & Machine Learning</h3>
-
 <table style="border-collapse: collapse; width: 100%; margin: auto; background-color: #282c34; color: #abb2bf;">
     <tr style="border-bottom: 1px solid #3e4451;">
       <th style="padding: 10px; text-align: left;">Project</th>
@@ -85,7 +84,6 @@
     <tr>
       <td style="padding: 10px;">Industrial Machine Failures Analysis and Prediction</td>
       <td style="padding: 10px;">https://github.com/Hypatchia/PredictiveMaintenance-MachineLearning-AzureML</td>
-
     </tr>
 </table>
 
@@ -102,12 +100,10 @@
     <tr>
       <td style="padding: 10px;">Premium Purchase Analysis and Prediction</td>
       <td style="padding: 10px;">https://github.com/Hypatchia/PremiumEnrollement-MachineLearning-ScikitLearn-Streamlit</td>
- 
     </tr>
     <tr>
       <td style="padding: 10px;">Customer Satisfaction Analysis and Prediction</td>
       <td style="padding: 10px;">https://github.com/Hypatchia/ClientSatisfaction-MachineLearning-Scikitlearn-Streamlit</td>
-    
     </tr>
 
 
@@ -123,17 +119,14 @@
     <tr>
       <td style="padding: 10px;">AutoEncoder Based Image Denoising for Quality Enhancement</td>
       <td style="padding: 10px;">https://github.com/Hypatchia/ImageDenoising-GenAI-AutoEncoders</td>
- 
     </tr>
     <tr>
       <td style="padding: 10px;">Imbalanced Dataset Augmentation using GANs</td>
       <td style="padding: 10px;">https://github.com/Hypatchia/DatasetAugmentation-GenerativeNetworks-KerasTensorflow</td>
- 
     </tr>
      <tr>
       <td style="padding: 10px;">AutoEncoders for Image Compression and Reconstruction</td>
       <td style="padding: 10px;">https://github.com/Hypatchia/AutoEncodersPlayground</td>
-    
     </tr>
     
   </table>

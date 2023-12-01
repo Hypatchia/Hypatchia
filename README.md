@@ -152,4 +152,5 @@ alt="Samia-BELHADDAD" height="30" width="30" />  </a></P>
 samiamagbelhaddad@gmail.com> </a>
 </p>
 
-## Thanks for visiting my GitHub profile, Don't forget to Connect with me on LinkedIn! 🚀
+## Don't forget to Connect with me on LinkedIn and Say Hi 🚀
+
